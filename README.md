@@ -13,7 +13,7 @@ WRITE THE FOLLOWINGS COMMANDS IN TERMINAL(ctrl+alt+T):-
 4) Enter password: (your system password)
 
 5) mysql> ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'P_A_S_S_W_O_R_D';  
-          // P_A_S_S_W_O_R_D --- your new password for root
+          // P_A_S_S_W_O_R_D ---  give your new password for root
           
 6) mysql> FLUSH PRIVILEGES;
 
